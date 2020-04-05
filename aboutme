@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Inferno Boy</title>
+
+</head>
+<body bgcolor = "pink">
+<style>                
+
+
+
+h1{
+background-color:rgb(300,100,200)
+}
+</style>                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+<h1>INFERNO BOY</h1>
+<img src="https://vignette.wikia.nocookie.net/lunime/images/b/be/Inferno.png/revision/latest?cb=20190311025944" width=100>
+<h3>About ME:-</h3>
+<font size=3 color = Yellow>I am <i>Aditya Saini</i>.
+<br> I am from<b> Gwalior</b>. I study in <i><b>9 grade</b></i>.
+<br>I love <b><i>playing and discovering new games on web</i></b>.
+ <br>You can find variety of<b> games here.</b></font>
+
+<h3>Variety Of Games:-</h3>
+<ul>
+<li><a href="file:///C:/Users/ACS/Desktop/HTML/Clash%20Of%20Clans.html"> Clash Of Clans-SUPERCELL</a></li>
+<li><a href="file:///C:/Users/ACS/Desktop/HTML/PUBGM%20Lite.html">PUBGM LITE- TENCENT</a></li>
+<li><a href="file:///C:/Users/ACS/Desktop/HTML/Prince%20Of%20Persia.html">Prince Of Persia</a></li>
+<li><a href="file:///C:/Users/ACS/Desktop/HTML/Dead%20Target.html">Dead Target</a></li>
+<li><a href="file:///C:/Users/ACS/Desktop/HTML/Weekend%20Warriors.html">Weekend Warriors</a></li>
+<li>Extreme Car Driving</li>
+</ul>
